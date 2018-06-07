@@ -1,0 +1,19 @@
+body {
+    background-image: url(../img/tiles.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center; 
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+}
+
+.logo a {
+    color: rgba(0,0,0,.9);
+}
+
+.logo a: hover,
+.logo a:active {
+    text-decoration: none;
+}
